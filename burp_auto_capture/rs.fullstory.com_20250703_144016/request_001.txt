@@ -1,0 +1,21 @@
+POST /rec/page?ngsw-bypass=true HTTP/1.1
+Host: rs.fullstory.com
+Content-Length: 728
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+{"OrgId":"o-1HRTV4-na1","UserId":"508add06-acc6-47ff-b554-e710952afbcb","SessionId":"25656d72-2593-49be-9954-4eea8d5b487e","PageId":"e20c2cb3-06d2-473b-b1da-bf05fa1a495d","Url":"https://www.novibet.bet.br/apostas-esportivas","Base":"https://www.novibet.bet.br/","Width":1284,"Height":952,"ScreenWidth":2560,"ScreenHeight":1080,"SnippetVersion":"1.3.0","Referrer":"https://www.novibet.bet.br/apostas-esportivas?__cf_chl_tk=V5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU","Preroll":64750,"Doctype":"<!DOCTYPE html>","CompiledVersion":"c542e49cb8346cb800dc5560acfb1ebf07a99960","CompiledTimestamp":1750644921,"TabId":"b9fb54b62ea058","SessionKeyHash":"","PageKeyHash":""}
