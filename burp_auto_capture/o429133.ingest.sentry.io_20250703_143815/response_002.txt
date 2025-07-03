@@ -1,0 +1,14 @@
+HTTP/2 403 Forbidden
+Server: nginx
+Date: Thu, 03 Jul 2025 17:37:29 GMT
+Content-Type: application/json
+Content-Length: 56
+Vary: origin, access-control-request-method, access-control-request-headers
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: x-sentry-error,x-sentry-rate-limits,retry-after
+Cross-Origin-Resource-Policy: cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"detail":"event submission rejected with_reason: Cors"}
