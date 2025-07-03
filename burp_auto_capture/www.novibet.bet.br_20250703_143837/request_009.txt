@@ -1,0 +1,34 @@
+GET /apps/translations/pt-BR.json HTTP/2
+Host: www.novibet.bet.br
+Cookie: affUrlC=value%3dhttps%3a%2f%2fwww.novibet.bet.br%2fcassino; BBPreferences=lang%3dpt-BR%3btimeZone%3dE.+South+America+Standard+Time%3bcountry%3dBR; affC=value%3d4124; registerOrLogin=true; AGE_CHECK_PASSED=true; _gcl_gs=2.1.k1$i1751510360$u103095583; _ga=GA1.1.2072127438.1751510366; _fs_sample_user=true; _cq_duid=1.1751510366.uQXMvyyDMDAtreIN; _fbp=fb.2.1751510366744.713107813531488245; kwai_uuid=24130310c73bafb3f38a789a7065ec21; _k_cp=1; tutorial_casino_search_home=acceptCookies; tutorial_casino_search_filters=acceptCookies; _gcl_aw=GCL.1751510648.EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE; _gcl_au=1.1.72731936.1751510365.250141416.1751510388.1751511876; acceptCookiesV1=acceptCookies; _ga_DC6RRZLTBB=GS2.1.s1751561510$o2$g1$t1751561670$j60$l0$h0; _ga_XJQJTTNRLE=GS2.1.s1751561510$o2$g1$t1751561670$j60$l0$h0; _vuid=v1.3:16910522538:1751510366496:1751561670210; _sp_srt_id.1b88=7331c130-3e30-44a7-9f28-0d008f0dd4f5.1751510367.2.1751561671.1751511843.08031255-fb14-4012-8716-f8219c786428.ee9f259b-16ca-46c0-81c4-c61cfd03d1ec...0; _uetsid=efeea59057b611f0bb9a4757e8640f69|bk173v|2|fxa|0|2010; _tq_id.TV-5445279027-1.821a=87942722fe4227d1.1751510367.0.1751561671..; _uetvid=efeea88057b611f0ac0a5733032613ff|z75m3k|1751561671682|2|1|bat.bing.com/p/insights/c/z; __cf_bm=zHhRoXqCm8jb40p.GJuazjeKIyXCeiTGKQYHdd4nKAw-1751564216-1.0.1.1-2SYouslXtwmKKRPYnypIjIf1x9QQmPm_KVBb8olFc_PzV39xYUtAX8JEcyUDk7nrYBzmSmyP7un44dr73VXDN0D41X.yDjfcPUlt0MMErKc; _cfuvid=.SurZjbVUyLwAMilaun3Czv02pWAHjoO3C9xO3KTjws-1751564226671-0.0.1.1-604800000; cf_clearance=MnubPh3cv3Wuwvnf6pyHogv3rHF4_NvSde0ra0IxuIQ-1751564242-1.2.1.1-gdnmKa0nYoXKnC.fy_msdZB_NHDgnOm8Hpn1mHg.ekhBXB98BzJb9fRCZfbrqG_M.JDkcX2ks1WPH6GjPq2tCdlx8b2puejYJiwapcIXKP4e5DS_FvifndlT0jgfhn9fBjFBoH.6OevX5FTnmIAvF2TvCUpnrDN0w4ccmuQUcwGpQ0_.LFxEaZG.SygrMqcshi_a7Z7tqBLCaKK7epIdQlBKsJPkntxVqEml8mznNx2MBWcWCbBRzIhIID0kBAVu; srv_id-api=ad6802d72057c289b0b63f38893bfc1b; ASP.NET_SessionId=dwpfo5itpzi1letrqw5miqxt
+Sec-Ch-Ua-Full-Version-List: 
+X-Gw-Domain-Key: _BR
+X-Gw-Odds-Representation: Decimal
+X-Gw-Application-Name: NoviBR
+Sec-Ch-Ua-Platform: "Windows"
+X-Gw-Currency-Sysname: BRL
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Bitness: ""
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Mobile: ?0
+Baggage: sentry-environment=prod,sentry-release=novibet-desktop%404.68.0.311,sentry-public_key=8b21d8ef80cd43ac963534f92af29279,sentry-trace_id=e0b252eb75f04ca1a3732cd62e13e46b,sentry-sample_rate=0.1,sentry-sampled=false
+Sentry-Trace: e0b252eb75f04ca1a3732cd62e13e46b-ab72bceba4406db9-0
+Sec-Ch-Ua-Arch: ""
+Sec-Ch-Ua-Full-Version: ""
+Accept: application/json, text/plain, */*
+X-Gw-Client-Timezone: America/Sao_Paulo
+X-Gw-Country-Sysname: BR
+X-Gw-State-Sysname: 
+X-Gw-Channel: WebPC
+Accept-Language: en-US,en;q=0.9
+X-Gw-Language-Sysname: pt-BR
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+X-Gw-Cms-Key: _BR
+Sec-Ch-Ua-Platform-Version: ""
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/apostas-esportivas
+Accept-Encoding: gzip, deflate, br
+Priority: u=4, i
+
