@@ -1,0 +1,131 @@
+HTTP/1.1 200 OK
+Date: Thu, 03 Jul 2025 17:38:47 GMT
+P3P: CP="NOI CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT"
+Set-Cookie: ruds=H4sIAAAAAAAA_-MSNjM1MjM1MTE3twBCIwNzMzNjAAgmuM0VAAAA; Path=/; Domain=.rfihub.com; Secure; SameSite=None
+Set-Cookie: eud=H4sIAAAAAAAA_13QvQrCMBAHcBS7KILQSfAVIrk0yVm3UBREHayTbrHtIH6gPopjx46OHX0EH8HR0UdwUlCQ3Pjj7n_HXb0DkRnMB1Oznhk7Pcx2drGJRuNke2Qxj5uACpQGjYAAeeVnGQiUHEriK_GN-En8Ii6qri_EJa3XXN-JC69lh3tljFmmcXaaGDO5eN8W4EoriWHpkRMars8-chkgpNyyRHDJJKiEhb1eymymMgi00Cub9H9DA41d_QkIIXL__zwhEQrih-9uytuu3y1-vEyaAQAA; Path=/; Domain=.rfihub.com; Expires=Tue, 28 Jul 2026 17:38:47 GMT; Secure; SameSite=None
+Set-Cookie: rud=H4sIAAAAAAAA_-MSNjM1MjM1MTE3twBCIwNzMzNjIT5DXfNiD4OixLSU0PCkYgCavL7kJQAAAA; Path=/; Domain=.rfihub.com; Expires=Tue, 28 Jul 2026 17:38:47 GMT; Secure; SameSite=None
+Cache-Control: no-cache
+Content-Type: text/html;charset=utf-8
+Content-Length: 4983
+Server: Jetty(9.4.51.v20230217)
+
+<html>
+<body onload='rfiFirePixels()'>
+<script type="text/javascript">
+
+window.rfiEventHandler = function(obj, type, handler) {
+    if (obj.addEventListener) {
+        obj.addEventListener(type, handler, false);
+    } else if (obj.attachEvent) {
+        obj.attachEvent('on' + type, handler);
+    }
+    obj['on' + type] = handler;
+};
+
+window.rfiFirePixels = function() {
+    var data = new Object();
+    var timeout = 3000, collectStats = !1, statsDone = !1;
+    var pixels = [{"b":58553,"s":"https://live.rezync.com/pixel?c=bd8618c307ae9885a12561b7191e2cea&cid=6526544778787207663&referrer=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&forward="}, {"b":13488,"s":"https://cm.g.doubleclick.net/pixel?&in=0&google_nid=zeta_interactive&google_cm=&google_sc=&google_hm=NjUyNjU0NDc3ODc4NzIwNzY2Mw==&forward="}, {"b":17243,"s":"https://ib.adnxs.com/setuid?entity=18&code=6526544778787207663&gdpr=&gdpr_consent=null&redir="}, {"b":53935,"s":"https://dpm.demdex.net/ibs:dpid=1121&dpuuid=6526544778787207663&redir="}, {"b":54855,"s":"https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZjb2RlPTI3MzkmdGw9MTI5NjAw==&piggybackCookie=6526544778787207663&r="}, {"b":42261,"s":"https://us-u.openx.net/w/1.0/sd?id=537073062&val=6526544778787207663&r="}, {"b":56885,"s":"https://p.rfihub.com/cm?pub=24472&in=1"}, {"b":58143,"s":"https://contextual.media.net/cksync.php?cs=3&type=rkt&ovsid=6526544778787207663"}, {"b":58561,"s":"https://bpi.rtactivate.com/tag/?id=11017&user_id=6526544778787207663"}, {"b":58853,"s":"https://i.liadm.com/s/90096?bidder_id=246506&bidder_uuid=6526544778787207663"}, {"b":52220,"s":"https://dsum-sec.casalemedia.com/rum?cm_dsp_id=57&external_user_id=6526544778787207663&forward="}, {"b":55073,"s":"https://idsync.rlcdn.com/360947.gif?partner_uid=6526544778787207663"}, {"b":54863,"s":"https://partners.tremorhub.com/sync?UIRF=6526544778787207663&r=3-DildgNmEx3"}, {"b":54497,"s":"https://aa.agkn.com/adscores/g.pixel?sid=9212192898&rf=6526544778787207663"}, {"b":56659,"s":"https://x.bidswitch.net/sync?dsp_id=119&user_id=6526544778787207663&expires=30&gdpr={GDPR}&gdpr_consent={GDPR_CONSENT_469}&gdpr_pd={GDPR_PD}"}, {"b":57363,"s":"https://sync-tm.everesttech.net/upi/pid/Mlpt2JaG/?redir=https%3A%2F%2Fp.rfihub.com%2Fcm%3Fin%3D1%26pub%3D21653%26userid%3D%24%7BTM_USER_ID%7D"}];
+    var additionalHtml = "";
+    var pixelId = 20849463;
+    var debugInfo = null;
+    var total = additionalHtml !== "" ? 1 : 0;
+    var timer = null;
+    pixels = pixels || [];
+    data.id = "49667,20849463,2b04c769c614deee1290f727d86cced4";
+    data.saveUuid = !1;
+
+    var sendMsg = function(type, data) {
+        var msg = new Object();
+        msg.type = type;
+        msg.id = pixelId;
+        if (data != null) {
+            msg.data = data;
+        }
+        window.parent.postMessage(msg, '*');
+    };
+
+    if (debugInfo != null) {
+        var inIframe = (function() {
+            try {
+                return window.self !== window.top;
+            } catch (e) {
+                return true;
+            }
+        })();
+
+        if (!inIframe) {
+            console.log(JSON.stringify(debugInfo));
+        } else {
+            sendMsg(3, debugInfo);
+        }
+    }
+
+    if (additionalHtml !== "") {
+        var d = document.createElement("div");
+        d.id = "rfiAddH";
+        d.innerHTML = additionalHtml;
+        document.body.appendChild(d);
+    }
+
+    if (collectStats) {
+        data.stats = new Object();
+        for (i in pixels) {
+            data.stats[pixels[i].b] = "";
+        }
+    }
+
+    var recordTime = function(elem, type) {
+        if (collectStats) {
+            data.stats[elem.elemId] = (new Date().getTime() - elem.initTime) + "," + type;
+        }
+        total--;
+        if (total <= 0) {
+            sendStats();
+            sendMsg(1, data);
+            timer && clearTimeout(timer);
+        }
+    };
+
+    for (i in pixels) {
+        var img = document.createElement('IMG');
+        img.onload = function() {
+            recordTime(this, 1);
+        };
+        img.onerror = function() {
+            recordTime(this, 2);
+        };
+        img.onabort = function() {
+            recordTime(this, 3);
+        };
+        img.elemId = pixels[i].b;
+        img.src = pixels[i].s;
+        var t = new Date().getTime();
+        img.initTime = t;
+        document.body.appendChild(img);
+        total++;
+    }
+
+    var sendStats = function() {
+        sendMsg(2, data);
+    };
+
+    timer = setTimeout(function() {
+        sendStats();
+        sendMsg(1, data);
+        timer = null;
+    }, timeout);
+
+    var unloadEventHandler = function(event) {
+        if (collectStats && !statsDone) {
+            sendStats();
+            statsDone = !0;
+        }
+    };
+
+    rfiEventHandler(window, "unload", unloadEventHandler);
+    rfiEventHandler(window, "beforeunload", unloadEventHandler);
+};
+</script>
+</body>
+</html>
