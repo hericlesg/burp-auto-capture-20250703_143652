@@ -1,0 +1,63 @@
+{
+  "capture_timestamp": "20250703_143726", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_001.txt", 
+      "url": "https://www.novibet.bet.br:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_001.txt", 
+      "timestamp": 1751564216996
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_002.txt", 
+      "url": "https://www.novibet.bet.br:443/apostas-esportivas", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_002.txt", 
+      "timestamp": 1751564217119
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_003.txt", 
+      "url": "https://www.novibet.bet.br:443/cdn-cgi/challenge-platform/h/g/flow/ov1/1662575913:1751560025:r1m5RLzNdTT1AJJ0xNE2ARXwKGoPBlXVSuUXvXGAeUU/959825e09b1fc5e3/P8DyqBZAJsFMrjQ.19.JGsKNq3AzbChhXSgVLXnOJx4-1751564216-1.2.1.1-cuxK0seRjLYDv8c06pTmAyHN2CO0s7dQKOJRQfvwVM2lx7HVcHnthSOWg_t5nDjM", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_003.txt", 
+      "timestamp": 1751564217572
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_004.txt", 
+      "url": "https://www.novibet.bet.br:443/cdn-cgi/challenge-platform/h/g/flow/ov1/1662575913:1751560025:r1m5RLzNdTT1AJJ0xNE2ARXwKGoPBlXVSuUXvXGAeUU/959825e09b1fc5e3/P8DyqBZAJsFMrjQ.19.JGsKNq3AzbChhXSgVLXnOJx4-1751564216-1.2.1.1-cuxK0seRjLYDv8c06pTmAyHN2CO0s7dQKOJRQfvwVM2lx7HVcHnthSOWg_t5nDjM", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_004.txt", 
+      "timestamp": 1751564227235
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_005.txt", 
+      "url": "https://www.novibet.bet.br:443/apostas-esportivas", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_005.txt", 
+      "timestamp": 1751564227328
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_006.txt", 
+      "url": "https://www.novibet.bet.br:443/cdn-cgi/challenge-platform/h/g/jsd/r/0.5857019626533799:1751563704:tj7AZR3snxybvLgBDIY6WlNSlARWZgIfJWCd8hF-wMw/95982620796ec5e3", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_006.txt", 
+      "timestamp": 1751564243326
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/request_007.txt", 
+      "url": "https://www.novibet.bet.br:443/ngapi/desktop/pt/account-api/get-application-custom-headers", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.novibet.bet.br_20250703_143726/response_007.txt", 
+      "timestamp": 1751564246348
+    }
+  ], 
+  "host": "www.novibet.bet.br", 
+  "total_requests": 7
+}
