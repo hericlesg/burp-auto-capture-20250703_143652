@@ -1,0 +1,19 @@
+GET /pstats.html?rb=49667&ca=20849463&ri=2b04c769c614deee1290f727d86cced4&stats=undefined&ra=6219573271551332 HTTP/1.1
+Host: a.rfihub.com
+Cookie: rud=H4sIAAAAAAAA_-MSNjM1MjM1MTE3twBCIwNzMzNjIT5DXfNiD4OixLSU0PCkYgCavL7kJQAAAA; ruds=H4sIAAAAAAAA_-MSNjM1MjM1MTE3twBCIwNzMzNjAAgmuM0VAAAA; euds=H4sIAAAAAAAA_-OSMXR2dA129XXMDHRM9C0IzE2MzHb29E7OKdQNMmhiMTcwMTY3TDFI1E02MjDRNTE0Tda1tLBI0U1MNU01NDYzMktKTLYyNDc1NDU0MDYz1zMDajAyMgIAuIzuTVgAAAA; eud=H4sIAAAAAAAA_-OSMXR2dA129XXMDHRM9C0IzE2MzHb29E7OKdQNMgjiNTQ3NTQ1MzE2NjQ0MZ3FCOcbmZsYGG5C4-9C459C479C4_9C4y9iQuWvQuNvQpdnQeXfQuMvYhVIdMszdXR0jEoJSi3ycXT0WcUKUWJoYGpmamJuuYkVzQvcqPxJwuYGJsbmhikGibrJRgYmuiaGpsm6lhYWKbqJqaaphsZmRmZJiclWUEONzcz1zIAajIyMZgkjBZ6FhfEiVL7JI2FUm2ZJovIBOd7VQpoBAAA
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive
+
