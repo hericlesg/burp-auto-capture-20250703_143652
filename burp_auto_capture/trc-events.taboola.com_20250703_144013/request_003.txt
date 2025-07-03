@@ -1,0 +1,21 @@
+GET /1797721/log/3/unip?en=pre_d_eng_tb&tos=47665&scd=0&ssd=1&est=1751561669854&ver=36&isls=true&src=i&invt=10000&msa=0&rv=2&tim=1751564377115&mrir=tto&vi=1751564326754&sd=v2_039c6a267ed5124ccb016a1b4ec480b2_73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213_1751561669_1751561669_CIi3jgYQ2dxtGNaZ2In9MiABKAMwHzjb1AdA74cQSNCq2gNQ____________AVgAYABojoHKouiN7vRTcAGAAQA&ui=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213&ref=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&cv=20250626-32-RELEASE&item-url=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&ler=other&it=JS_PIXEL HTTP/2
+Host: trc-events.taboola.com
+Cookie: t_gid=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213; t_pt_gid=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.novibet.bet.br
+Attribution-Reporting-Eligible: trigger=event-source
+Sec-Ad-Auction-Event-Recording-Eligible: 
+Attribution-Reporting-Support: web
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
