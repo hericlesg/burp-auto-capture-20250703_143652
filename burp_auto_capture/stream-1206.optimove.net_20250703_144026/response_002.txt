@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=utf-8
+Content-Length: 50
+Etag: W/"32-VKCRbUCDLhBCe2iLsUL15heMRW0"
+Date: Thu, 03 Jul 2025 17:38:44 GMT
+Via: 1.1 google
+Strict-Transport-Security: max-age=63072000
+Content-Security-Policy: frame-ancestors 'self' *.optimove.net
+Server: Optimove
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"status":"success","message":"15370711891775665"}
