@@ -1,0 +1,13 @@
+GET /client/?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=xxbnt7d6BwA%3D&id=_VaJjybx8tERVrPv6hTOxwCaQMzw702&access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0xOTU5Mjc0MTE5In0.eyJhc3JzLnMuc2VjbiI6IjIiLCJhc3JzLnMudHRsIjoiNSIsIm5iZiI6MTc1MTU2NDQzNCwiZXhwIjoxNzUxNTY4MDM0LCJpYXQiOjE3NTE1NjQ0MzQsImF1ZCI6Imh0dHBzOi8vbm92LXByZC1icmEtc2lnbmFsci5zZXJ2aWNlLnNpZ25hbHIubmV0L2NsaWVudC8_aHViPWN1c3RvbWVybm90aWZpY2F0aW9uaHViIn0.hpk-CMVyyjRal6DHY3xpye1XlZ9vjm9gsHILGnZfZew HTTP/1.1
+Host: nov-prd-bra-signalr.service.signalr.net
+Connection: Upgrade
+Pragma: no-cache
+Cache-Control: no-cache
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Upgrade: websocket
+Origin: https://www.novibet.bet.br
+Sec-WebSocket-Version: 13
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Sec-WebSocket-Key: +cpvobATh/yuMgMYAgP0FQ==
+
