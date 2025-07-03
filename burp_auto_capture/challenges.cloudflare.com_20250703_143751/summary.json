@@ -1,0 +1,47 @@
+{
+  "capture_timestamp": "20250703_143751", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/request_001.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/1xaf3/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal/auto/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/response_001.txt", 
+      "timestamp": 1751564218289
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/request_002.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/flow/ov1/675626595:1751560006:3yLqzvYxLUD5c4nxJKbLOF2JBirN5mHJfXMDhcigKSQ/959825e8197ccabb/8ZV0zZqQhhvu2yTk8yUrBz4T1egWcN8pQtBP861XwEc-1751564217-1.2.1.1-WFSrHhvTpI_soa7Bd37qrxShl54g0Q43mfhlGWhExbbPYTghMu6xUs_Jq6Nzvhf1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/response_002.txt", 
+      "timestamp": 1751564219078
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/request_003.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/pat/959825e8197ccabb/1751564218288/3f91f048a52b0d5cd071f48285696f64706f3f4907173921641a9856b2405f88/In566qhD4tZI2LB", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/response_003.txt", 
+      "timestamp": 1751564220374
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/request_004.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/flow/ov1/675626595:1751560006:3yLqzvYxLUD5c4nxJKbLOF2JBirN5mHJfXMDhcigKSQ/959825e8197ccabb/8ZV0zZqQhhvu2yTk8yUrBz4T1egWcN8pQtBP861XwEc-1751564217-1.2.1.1-WFSrHhvTpI_soa7Bd37qrxShl54g0Q43mfhlGWhExbbPYTghMu6xUs_Jq6Nzvhf1", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/response_004.txt", 
+      "timestamp": 1751564223158
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/request_005.txt", 
+      "url": "https://challenges.cloudflare.com:443/cdn-cgi/challenge-platform/h/g/flow/ov1/675626595:1751560006:3yLqzvYxLUD5c4nxJKbLOF2JBirN5mHJfXMDhcigKSQ/959825e8197ccabb/8ZV0zZqQhhvu2yTk8yUrBz4T1egWcN8pQtBP861XwEc-1751564217-1.2.1.1-WFSrHhvTpI_soa7Bd37qrxShl54g0Q43mfhlGWhExbbPYTghMu6xUs_Jq6Nzvhf1", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/challenges.cloudflare.com_20250703_143751/response_005.txt", 
+      "timestamp": 1751564226971
+    }
+  ], 
+  "host": "challenges.cloudflare.com", 
+  "total_requests": 5
+}
