@@ -1,0 +1,18 @@
+GET /privacy-sandbox/register-conversion?_c=1&cid=2072127438.1751510366&dbk=15946787668239466125&dma=0&en=login_success&gcs=G1--&gtm=45je5710h1v876288562z8863745186za200zb863745186&npa=0&tid=G-XJQJTTNRLE&dl=https%3A%2F%2Fwww.novibet.bet.br%3F HTTP/1.1
+Host: www.google-analytics.com
+Cookie: ar_debug=1
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
