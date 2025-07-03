@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250703_143919", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/stream-1206.optimove.net_20250703_143919/request_001.txt", 
+      "url": "https://stream-1206.optimove.net:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/stream-1206.optimove.net_20250703_143919/response_001.txt", 
+      "timestamp": 1751564292721
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/stream-1206.optimove.net_20250703_143919/request_002.txt", 
+      "url": "https://stream-1206.optimove.net:443/", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/stream-1206.optimove.net_20250703_143919/response_002.txt", 
+      "timestamp": 1751564325066
+    }
+  ], 
+  "host": "stream-1206.optimove.net", 
+  "total_requests": 2
+}
