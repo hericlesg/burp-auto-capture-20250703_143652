@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250703_143908", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250703_143908/request_001.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-XJQJTTNRLE&gtm=45je5710h1v876288562z8863745186za200zb863745186&_p=1751564324720&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&cid=2072127438.1751510366&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_prs=ok&_eu=AAAAAAQ&_s=1&dp=%2Fapostas-esportivas&dt=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&sid=1751564326&sct=3&seg=0&dl=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&dr=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&en=page_view&_ss=2&ep.country=BR&ep.device_category=web_desktop&ep.implementation_version=v2&ep.page_name_original=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&ep.page_name=SportsbookHome&ep.page_stage=main_page&ep.page_category=SportsbookHome&epn.is_virtual_pageview=0&up.user_non_depositer=true&up.user_last_login=&tfd=99055", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250703_143908/response_001.txt", 
+      "timestamp": 1751564326690
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250703_143908/request_002.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-DC6RRZLTBB&gtm=45je5710h1v9103273604z8863745186za200zb863745186&_p=1751564324720&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320&cid=2072127438.1751510366&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AAAAAAQ&_s=1&dp=%2Fapostas-esportivas&dt=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&sid=1751564326&sct=3&seg=0&dl=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&dr=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&en=page_view&_ss=1&ep.country=BR&ep.device_category=web_desktop&ep.implementation_version=v2&ep.page_name_original=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&ep.page_name=SportsbookHome&ep.page_stage=main_page&ep.page_category=SportsbookHome&epn.is_virtual_pageview=0&up.user_non_depositer=true&up.user_last_login=&tfd=98912", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250703_143908/response_002.txt", 
+      "timestamp": 1751564326690
+    }
+  ], 
+  "host": "analytics.google.com", 
+  "total_requests": 2
+}
