@@ -1,0 +1,20 @@
+POST / HTTP/2
+Host: stream-1206.optimove.net
+Content-Length: 572
+X-Request-Id: 791c621c-b542-4f06-b42d-1f6024bef131
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: application/json
+Content-Type: application/json
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+[{"tenant":1206,"category":"track","origin":"sdk","event":"set_page_visit","context":{"customURL":"novibet.bet.br/apostas-esportivas","pageTitle":"Apostas Esportivas | Apostas Online | Novibet","category":"Sportsbook","event_platform":"Windows","event_device_type":"desktop","event_os":"Windows 10","event_native_mobile":"false"},"timestamp":"2025-07-03T17:39:59.437Z","metadata":{"firstVisitorDate":"2025-07-03T02:39:27.049Z","eventId":"dd245406-6d8f-4d61-85c7-cf0a4a9ec96c","sdk_platform":"web","sdk_version":"2.0.21"},"visitor":"eb2882efbaa07061","customer":"7093440"}]
