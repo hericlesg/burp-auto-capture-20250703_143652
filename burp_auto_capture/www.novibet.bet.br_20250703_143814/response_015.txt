@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 17:38:06 GMT
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Vary: x-gw-channel, x-gw-domain-key, x-gw-language-sysname, x-gw-currency-sysname
+Cache-Control: public, max-age=120, stale-while-revalidate=600, stale-if-error=86400
+X-F-Lo: 12
+X-F-N: 03
+X-F-N-T: 02
+Cf-Cache-Status: HIT
+Age: 103
+Last-Modified: Thu, 03 Jul 2025 17:36:23 GMT
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 95982797df271aef-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"jackpots":[{"amount":2379817,"bannerUrl":null,"caption":null,"sysname":"TotalJackpots","providerCaption":null,"demoPlayAllowed":false},{"amount":2379817,"bannerUrl":"/mediaimages/caribbeanstudpoker-other-novibet-gr-370x180.jpg","caption":"Caribbean Stud Poker","sysname":"EVO_CaribbeanStudPoker","providerCaption":"Evolution","demoPlayAllowed":false}]}
