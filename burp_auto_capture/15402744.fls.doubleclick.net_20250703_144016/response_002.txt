@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+P3p: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Timing-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+Date: Thu, 03 Jul 2025 17:38:53 GMT
+Expires: Thu, 03 Jul 2025 17:38:53 GMT
+Cache-Control: private, max-age=0
+Strict-Transport-Security: max-age=21600
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: cafe
+Content-Length: 843
+X-Xss-Protection: 0
+Set-Cookie: receive-cookie-deprecation=1; Domain=doubleclick.net; Secure; HttpOnly; Path=/; SameSite=None; Partitioned; Max-Age=15552000
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title></title></head><body style="background-color: transparent"><img src="https://adservice.google.com/ddm/fls/z/dc_pre=CIyhzc2doY4DFQhouAQdvcgwew;src=15402744;type=novib00;cat=novib0;ord=7638324940558;npa=0;gclgs=1;gclst=53970219;gcllp=103095583;gclaw=*;auiddc=*;uaa=;uab=;uafvl=;uamb=0;uam=;uap=Windows;uapv=;uaw=0;frm=0;user_data_mode=a;_tu=KlA;gtm=45fe5710h1v9192978174z8863745186za200zb863745186;gcs=G1--;gcd=13l3l3R3l5l1;dma=0;dc_fmt=2;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320;epver=2;em=tv.*;dc_random=1751564330214;_dc_test=1;~oref=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas"/></body></html>
