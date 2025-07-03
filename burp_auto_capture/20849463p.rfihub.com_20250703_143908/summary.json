@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250703_143908", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/20849463p.rfihub.com_20250703_143908/request_001.txt", 
+      "url": "https://20849463p.rfihub.com:443/ca.html?ver=9&rb=49667&ca=20849463&_o=49667&_t=20849463&pe=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&pf=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&ra=5433323395480916", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/20849463p.rfihub.com_20250703_143908/response_001.txt", 
+      "timestamp": 1751564328133
+    }
+  ], 
+  "host": "20849463p.rfihub.com", 
+  "total_requests": 1
+}
