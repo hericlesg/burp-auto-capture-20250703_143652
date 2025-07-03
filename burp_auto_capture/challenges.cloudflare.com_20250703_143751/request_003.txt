@@ -1,0 +1,17 @@
+GET /cdn-cgi/challenge-platform/h/g/pat/959825e8197ccabb/1751564218288/3f91f048a52b0d5cd071f48285696f64706f3f4907173921641a9856b2405f88/In566qhD4tZI2LB HTTP/2
+Host: challenges.cloudflare.com
+Cache-Control: max-age=0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/if/ov2/av0/rcv/1xaf3/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal/auto/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
