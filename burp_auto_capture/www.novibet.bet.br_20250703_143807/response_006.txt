@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 17:37:22 GMT
+Content-Type: text/plain; charset=UTF-8
+Content-Length: 0
+Set-Cookie: cf_clearance=MnubPh3cv3Wuwvnf6pyHogv3rHF4_NvSde0ra0IxuIQ-1751564242-1.2.1.1-gdnmKa0nYoXKnC.fy_msdZB_NHDgnOm8Hpn1mHg.ekhBXB98BzJb9fRCZfbrqG_M.JDkcX2ks1WPH6GjPq2tCdlx8b2puejYJiwapcIXKP4e5DS_FvifndlT0jgfhn9fBjFBoH.6OevX5FTnmIAvF2TvCUpnrDN0w4ccmuQUcwGpQ0_.LFxEaZG.SygrMqcshi_a7Z7tqBLCaKK7epIdQlBKsJPkntxVqEml8mznNx2MBWcWCbBRzIhIID0kBAVu; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=novibet.bet.br; Expires=Fri, 03 Jul 2026 17:37:22 GMT
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 959826849d4bcb03-GIG
+Alt-Svc: h3=":443"; ma=86400
+
