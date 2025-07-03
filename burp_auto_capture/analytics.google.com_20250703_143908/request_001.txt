@@ -1,0 +1,21 @@
+POST /g/collect?v=2&tid=G-XJQJTTNRLE&gtm=45je5710h1v876288562z8863745186za200zb863745186&_p=1751564324720&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&cid=2072127438.1751510366&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_prs=ok&_eu=AAAAAAQ&_s=1&dp=%2Fapostas-esportivas&dt=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&sid=1751564326&sct=3&seg=0&dl=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&dr=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&en=page_view&_ss=2&ep.country=BR&ep.device_category=web_desktop&ep.implementation_version=v2&ep.page_name_original=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&ep.page_name=SportsbookHome&ep.page_stage=main_page&ep.page_category=SportsbookHome&epn.is_virtual_pageview=0&up.user_non_depositer=true&up.user_last_login=&tfd=99055 HTTP/1.1
+Host: analytics.google.com
+Cookie: NID=525=OXe-gAxmolkstsIu18HJpZgj0M39JEn7MxxNGMr9SX_E-WMgOBh8rCOHWUojFR0RuR-nQ4o9h77nDOhejoIBvhe-C5AqiCXo2pl86M5UXWAIGxgTVPv--eTy1S5UTF4LNqDRSBdfrL0CKQ-kFLecy71NLGmlC5zphpKImKNoqZoxKrksE_fGRxLkVylD3rPIE7PBZ_kCZRqLjzwd3KXIxd8HEufYBSoB1QqIg75trFS7_4jf8k0M3aZdPxjMNb-EiQOH
+Content-Length: 0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.novibet.bet.br
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=4, i
+Connection: keep-alive
+
