@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 17:37:41 GMT
+Content-Type: application/json; charset=utf-8
+Set-Cookie: srv_id-api=ad6802d72057c289b0b63f38893bfc1b; httponly; samesite=lax; path=/
+Cache-Control: private
+Vary: Accept-Encoding
+X-Correlation-Id: e7786493-ad6c-4aee-b899-f510775e3cd8
+X-Aspnetmvc-Version: 5.2
+X-Aspnet-Version: 4.0.30319
+Application-Name: NoviBR
+Domain-Key: _BR
+Cms-Key: _BR
+Country-Sysname: BR
+Currency-Sysname: BRL
+Channel: WebPC
+X-Powered-By: ASP.NET
+X-F-Lo: 30
+X-F-N: 01
+X-F-N-T: 03
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 959826f939d1ddeb-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"userSessionModel":{"isSignalRHubEnabled":true,"sessionId":"dwpfo5itpzi1letrqw5miqxt","virtualSessionId":"0","channel":"WebPC","applicationName":"NoviBR","subscriberID":0,"isBannedCountry":false,"proposedDomain":null,"proposedDomainHref":null,"hasSplashPage":true,"isAuthenticated":false,"vipType":{"id":1,"sysname":"None"},"kycProvider":null,"firstName":null,"lastName":null,"ssn":null,"tin":null,"email":null,"profileId":0,"languageSysname":"pt-BR","currencySysname":"BRL","currencySymbol":"R$","oddsRepresentation":1,"userIp":"179.73.186.111","userGroupSysname":"BR","liveSoundsEnabled":true,"timeZone":"E. South America Standard Time","timeZoneOffset":"-03:00:00","userTimeStampUnix":1751553461326,"domainKey":"_BR","cmsKey":"_BR","countrySysname":"BR","countryCodeByIp":"BR","stateSysname":null,"stateCodeByIp":null,"serverIp":"10.30.0.30","freeBetAmountText":null,"showInboxIndicator":false,"hasDeposited":false,"depositTnCsAccepted":0,"suspensionReason":null,"activeSuspensions":null,"activationDate":null,"forcedTransition":false,"showTransitionCompletePopup":true,"username":null,"funds":0.0,"bannedFromCasino":false,"bannedFromPoker":false,"claimedBonusSchemeId":null,"bonusSchemeId":null,"betBuilderBetContextId":null,"showBetRadioButton":false,"walletDetails":{"funds":0.0,"withdrawableFunds":0.0,"withheldTax":0.0,"totalDepositAmount":0.0,"totalWithdrawalAmount":0.0,"bonusData":null,"lifeTimeNetBalance":null,"casinoReserved":0.0,"sportsBookReserved":0.0,"financialLoss":0.0},"bettingGenericAppSettings":{"bettingAllowed":true},"casinoGenericAppSettings":{"demoPlayAllowed":true,"realPlayAllowed":false},"documentsVerification":{"kyc":0,"age":0,"id":0,"address":0,"sow":0,"otherDocs":0},"sessionRGNotification":{"date":"0001-01-01T00:00:00+00:00","interval":0,"enabled":false},"sessionInactivityTimeNotification":{"date":"0001-01-01T00:00:00+00:00","interval":0,"enabled":false},"lastLogin":null,"loginDateUtc":"0001-01-01T00:00:00+00:00","annualUpdateReminder":null,"missingDataCollectionForm":null,"resetPassword":null,"passwordExpirationDate":null,"showNoviboardSportsbook":false,"showNoviboardCasino":false,"showGiftwheelSportsbook":true,"showGiftwheelCasino":true,"showKycBlock":false,"showAmlThresholdForm":false,"showAmlMediumRiskForm":false,"showConsentPopUp":null,"userState":"OK","newTncsVersion":false,"liveChatUrl":"https://chat.novibet.bet.br?token=0i0ymol%2f8KHsF8t8gtclpBck8%2fxgJLI4nt%2b4WcMk5wlwJ6YELQDxJ%2bwl%2fDvm9EHFK6k5Wz%2fpf%2bem0XcPvYJIdtTKSZqTQpOLJXLAH5bx%2f0ofjg935vY0ZofyaXv97woissTZiY4kab0oZ8WMxD7OyBS5s%2ft7UI%2bjJ%2b%2bK7xRA%2bVbK3%2bmVxYLZeqyMWCufkc%2f%2byWSdysixF6jg1TKFDniWN%2bupwXK50F9691dpVrMrBdVJynIk4YjYU6%2fLPMYDxtblKCSs6HdnC2aDJjOsWV3sIYXqhEnH1FICTXrEUPcM0hs%3d","pendingWithdraws":false,"isAutoWithdrawEnabled":false,"forceChangePassword":false,"isVerificationDocumentRequired":false,"showLimits":false,"depositLimitRestriction":false,"showTransition":false,"showNotificationWarning":true,"enablePredictionChallenge":false,"inactivityTime":30,"providerFunds":null,"geoComplyInfo":null,"closestLimitEndTime":null,"sessionTimeReminder":null},"bettingGenericAppSettings":{"bettingAllowed":true},"casinoGenericAppSettings":{"demoPlayAllowed":true,"realPlayAllowed":false},"genericSiteFlowsSettings":{"jumioRegFlow":false,"depositRegFlow":true,"checkAge":false},"userValidationAppSettings":{"jumio":true,"lccp":false,"requiredDocsRestriction":true,"depositTnCs":false}}
