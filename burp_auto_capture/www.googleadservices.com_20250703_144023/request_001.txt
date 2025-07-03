@@ -1,0 +1,23 @@
+GET /pagead/conversion/861103808/?random=1751564370106&cv=11&fst=1751564370106&bg=ffffff&guid=ON&async=1&gcl_ctr=8&gtm=45je5710h1v9103273604z8863745186za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103308615~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320&u_w=2560&u_h=1080&url=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&ref=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&gclaw_src=8_3&label=RLRXCImYjoECEMDNzZoD&hn=www.googleadservices.com&frm=0&tiba=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&value=0&bttype=purchase&npa=0&gclgs=1&gclst=54010106&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&ec_mode=a&oid=1074976386.1751564370&ecsid=1473815323.1751564358&fledge=1&capi=1&_tu=ChA&delc=BR&data=country%3DBR&em=tv.1~em.nf0vDzJZFf5TOrGIMUi9Mf5SuYz4ry-ScqC5h5eSQY4&_ht=t.80~l.50&fmt=7 HTTP/1.1
+Host: www.googleadservices.com
+Cookie: Conversion=EgwIABUAAAAAHQAAAAAYASDrj9n_9pSm83pIAWo3RUFJYUlRb2JDaE1JbU02Q29kU2ZqZ01WQjFkSUFCMk4wQ3l1RUFBWUFTQUFFZ0xCZXZEX0J3RXD47e-11J-OA5ABkbvBsdATmAEA; ar_debug=1; GCL_AW_P=GCL.1751510526.EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.novibet.bet.br
+Attribution-Reporting-Eligible: not-event-source, trigger;navigation-source
+Sec-Ad-Auction-Event-Recording-Eligible: not-view
+Attribution-Reporting-Support: web;os
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
