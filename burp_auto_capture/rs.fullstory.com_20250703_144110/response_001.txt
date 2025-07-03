@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Content-Type: application/json; charset=utf-8
+Date: Thu, 03 Jul 2025 17:39:00 GMT
+Content-Length: 1391
+Via: 1.1 google
+X-Fs-Path-Matcher: default
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"Consented":false,"CookieDomain":"bet.br","PrivacyHash":"","UserUUID":"508add06-acc6-47ff-b554-e710952afbcb","SessionUUID":"25656d72-2593-49be-9954-4eea8d5b487e","PageUUID":"e20c2cb3-06d2-473b-b1da-bf05fa1a495d","UserIntId":"0","SessionIntId":"0","PageIntId":"0","EmbedToken":"","PageStart":1751564340934,"IsNewSession":false,"Flags":{"AjaxFetch":true,"AjaxWatcher":true,"ConsoleWatcher":true,"FetchIntegrations":true,"GetCurrentSession":true,"UseBufferedPO":true,"UseClientSideId":true,"UseCompression":true,"UseDwellTime":true,"UseLZEncoding":true,"UseStatelessConsent":true,"UseStaticSettings":true,"UseTreeWalker":true,"WhitelistElements":true},"GCLBSubdomain":"rs","Blocks":[],"Watches":[],"AjaxFetchEnabled":true,"AjaxWatcherEnabled":true,"ConsoleWatcherEnabled":true,"GetCurrentSessionEnabled":true,"ResourceUploadingEnabled":false,"WhitelistElementsEnabled":true,"ElementBlocks":[],"ElementDeferreds":[],"ElementKeeps":[],"ElementWatches":[],"UrlKeeps":[],"DwellTime":0,"AjaxWatches":[],"OrgSettings":{"AttributeBlocklist":[],"HttpRequestHeadersAllowlist":[],"HttpResponseHeadersAllowlist":[],"MaxAjaxPayloadLength":0,"MaxConsoleLogPerPage":0,"MaxPerfMarksPerPage":0,"MaxUrlLength":0,"RecordPerformanceResourceImg":false,"RecordPerformanceResourceTiming":false,"UrlPathBlocklist":[],"UrlPrivacyConfig":[],"UrlQueryStringBlocklist":[]},"BehaviorSignalSettings":{"ElementBlocks":[]}}
