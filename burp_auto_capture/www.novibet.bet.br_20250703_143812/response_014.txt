@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 17:38:06 GMT
+Content-Type: application/json; charset=utf-8
+Cache-Control: public,max-age=600
+Vary: x-gw-language-sysname, x-gw-cms-key
+Vary: Accept-Encoding
+X-F-Lo: 11
+X-F-N: 01
+X-F-N-T: 02
+Last-Modified: Thu, 03 Jul 2025 17:32:45 GMT
+Cf-Cache-Status: HIT
+Age: 321
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 95982797ef361aef-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"banners":[{"url":"/apostas-esportivas/promocoes/br-novi-bolao-10","bannerUrl":"/media/175585/right-panel-br-28.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/extra-bet-offer","bannerUrl":"/media/176289/right-panel-8.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"https://www.whatsapp.com/channel/0029Vb6GV4OKWEKifaZbrl1Q","bannerUrl":"/media/176666/right-panel-2025-05-30t110319377.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/2-stages-acca-promo-wimbledon-020725","bannerUrl":"/media/177064/right-panel-2025-07-02t095156467.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"https://www.novibet.bet.br/casino/giftwheel","bannerUrl":"/media/176700/right-panel-cassino.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/bet-builder-combo-boost","bannerUrl":"/media/175070/right-panels-6.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/sports/promotions","bannerUrl":"/media/174859/right-panels-5.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/bet-builder-boost","bannerUrl":"/media/174858/right-panels-2-1.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/golden-sub-promo-050924","bannerUrl":"/media/174856/golden-sub-version-2-br-right-panel-1.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/early-over-promo","bannerUrl":"/media/176896/Îµarly-over-br-right-panel.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"apostas-esportivas/promocoes/american-football-early-payout-promo","bannerUrl":"/media/176801/right-panel-br-33.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/volleyball-early-payout-promo","bannerUrl":"/media/176803/right-panel-volleyball-br.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/handball-early-payout-promo","bannerUrl":"/media/176802/right-panel-baseball-br.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes","bannerUrl":"/media/174854/bet-builder-br-right-panel-2.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes","bannerUrl":"/media/174860/right-panels-cash-out.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"https://br.novibet.com/apostas-esportivas/promocoes/super-odds","bannerUrl":"/media/112972/new-super-odds.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false},{"url":"/apostas-esportivas/promocoes/2-goals-ahead","bannerUrl":"/media/174979/2-goals-ahead-br.png","bannerText":"","newWindow":true,"drawerName":"","drawerPage":"","isDrawer":false}]}
