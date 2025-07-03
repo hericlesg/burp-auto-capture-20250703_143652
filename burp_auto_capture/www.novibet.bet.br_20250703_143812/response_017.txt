@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 17:38:06 GMT
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+X-F-Lo: 25
+X-F-N: 01
+X-F-N-T: 03
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 95982797ff491aef-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"$type":"BlueBrown.Betslips.Shared.Models.Betslips.BetslipModel, BlueBrown.Betslips.Shared","id":"1390386135103746048","oddsRepresentation":"Decimal","player":{"$type":"Anonymous","currencySysname":"BRL","oddsChangeStrategy":"Reject"},"state":{"$type":"Empty"},"betContextModes":[],"settings":{"maxSelections":20,"maxBetBuilderSelections":20,"betBuilderMinItems":2,"betBuilderMaxItems":12,"minMergeSelections":2,"maxAmount":1000000000000.0}}
