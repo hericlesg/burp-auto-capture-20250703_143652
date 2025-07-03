@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250703_143759", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/o429133.ingest.sentry.io_20250703_143759/request_001.txt", 
+      "url": "https://o429133.ingest.sentry.io:443/api/6618374/envelope/?sentry_version=7&sentry_key=8b21d8ef80cd43ac963534f92af29279&sentry_client=sentry.javascript.angular%2F8.55.0", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/o429133.ingest.sentry.io_20250703_143759/response_001.txt", 
+      "timestamp": 1751564246573
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/o429133.ingest.sentry.io_20250703_143759/request_002.txt", 
+      "url": "https://o429133.ingest.sentry.io:443/api/6618374/envelope/?sentry_version=7&sentry_key=8b21d8ef80cd43ac963534f92af29279&sentry_client=sentry.javascript.angular%2F8.55.0", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/o429133.ingest.sentry.io_20250703_143759/response_002.txt", 
+      "timestamp": 1751564250094
+    }
+  ], 
+  "host": "o429133.ingest.sentry.io", 
+  "total_requests": 2
+}
