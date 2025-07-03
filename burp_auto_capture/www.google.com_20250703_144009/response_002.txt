@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+P3p: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"
+Timing-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+Date: Thu, 03 Jul 2025 17:38:45 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Server: cafe
+Content-Length: 63
+X-Xss-Protection: 0
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+<html><body style="background-color:transparent"></body></html>
