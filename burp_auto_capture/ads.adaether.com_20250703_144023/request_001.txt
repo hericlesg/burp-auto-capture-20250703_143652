@@ -1,0 +1,20 @@
+POST /log/common/co/api HTTP/2
+Host: ads.adaether.com
+Content-Length: 986
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"clickid":"","event_name":"EVENT_PAGE_VIEW","is_attributed":0,"mmpcode":"PL","pixelId":"269700224626311","pixelSdkVersion":"2.10.3","testFlag":false,"trackFlag":false,"pixelExtData":"{\"kwaiInfo\":{\"uuid\":\"24130310c73bafb3f38a789a7065ec21\",\"currentHref\":\"https://www.novibet.bet.br/apostas-esportivas\",\"accessMode\":1,\"host\":\"www.novibet.bet.br\",\"navigator\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36\",\"eventId\":\"eventId-1751564335397-5766006860159-269700224626311\",\"tirdParty\":\"none\",\"kwaiAdInfoSource\":\"nonAttribute\",\"referrer\":\"https://www.novibet.bet.br/apostas-esportivas?__cf_chl_tk=V5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU\",\"inIframe\":false,\"isGtm\":true},\"pixelIds\":\"269700224626311\",\"sessionId\":\"sessionId-1751564332087-9029358259670-269700224626311\",\"sendMethod\":1,\"sendWithXhrAsync\":true}"}
