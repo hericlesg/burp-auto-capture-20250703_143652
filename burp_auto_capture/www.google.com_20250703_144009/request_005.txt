@@ -1,0 +1,20 @@
+POST /ccm/collect?en=page_view&dr=www.novibet.bet.br&dl=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&scrsrc=www.googletagmanager.com&frm=0&rnd=1479955404.1751564400&dt=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&auid=72731936.1751510365&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&navt=r&npa=0&gtm=45He5710v863745186za200&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320&tft=1751564400263&tfd=24261&apve=1&apvf=sb HTTP/2
+Host: www.google.com
+Cookie: NID=525=OXe-gAxmolkstsIu18HJpZgj0M39JEn7MxxNGMr9SX_E-WMgOBh8rCOHWUojFR0RuR-nQ4o9h77nDOhejoIBvhe-C5AqiCXo2pl86M5UXWAIGxgTVPv--eTy1S5UTF4LNqDRSBdfrL0CKQ-kFLecy71NLGmlC5zphpKImKNoqZoxKrksE_fGRxLkVylD3rPIE7PBZ_kCZRqLjzwd3KXIxd8HEufYBSoB1QqIg75trFS7_4jf8k0M3aZdPxjMNb-EiQOH
+Content-Length: 0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://www.novibet.bet.br
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=4, i
+
