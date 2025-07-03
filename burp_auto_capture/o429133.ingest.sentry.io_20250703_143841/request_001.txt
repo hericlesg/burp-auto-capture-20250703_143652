@@ -1,0 +1,22 @@
+POST /api/6618374/envelope/?sentry_version=7&sentry_key=8b21d8ef80cd43ac963534f92af29279&sentry_client=sentry.javascript.angular%2F8.55.0 HTTP/1.1
+Host: o429133.ingest.sentry.io
+Content-Length: 472
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: text/plain;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+{"sent_at":"2025-07-03T17:37:26.140Z","sdk":{"name":"sentry.javascript.angular","version":"8.55.0"}}
+{"type":"session"}
+{"sid":"647086c1556f4c109fba860188c52151","init":true,"started":"2025-07-03T17:37:26.140Z","timestamp":"2025-07-03T17:37:26.140Z","status":"ok","errors":0,"attrs":{"release":"novibet-desktop@4.68.0.311","environment":"prod","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"}}
