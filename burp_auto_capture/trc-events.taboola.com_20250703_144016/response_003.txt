@@ -1,0 +1,11 @@
+HTTP/2 204 No Content
+Server: nginx
+Date: Thu, 03 Jul 2025 17:39:36 GMT
+P3p: policyref="http://trc.taboola.com/p3p.xml", CP="NOI DSP COR LAW NID CURa ADMa DEVa PSAa PSDa OUR BUS IND UNI COM NAV INT DEM"
+Access-Control-Allow-Origin: https://www.novibet.bet.br
+Access-Control-Allow-Credentials: true
+Set-Cookie: t_gid=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213;Version=1;Path=/;Domain=.taboola.com;Expires=Fri, 03-Jul-2026 17:39:36 GMT;Max-Age=31536000;Secure;SameSite=None
+Set-Cookie: t_pt_gid=73407ee5-aebc-4bd3-b917-586619cf5e7e-tuctf5b4213;Version=1;Path=/;Domain=.taboola.com;Expires=Fri, 03-Jul-2026 17:39:36 GMT;Max-Age=31536000;Secure;SameSite=None;Partitioned
+Cache-Control: no-cache
+Pragma: no-cache
+
