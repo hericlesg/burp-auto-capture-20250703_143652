@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250703_143923", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/15402744.fls.doubleclick.net_20250703_143923/request_001.txt", 
+      "url": "https://15402744.fls.doubleclick.net:443/activityi;src=15402744;type=novib00;cat=novib0;ord=7638324940558;npa=0;gclgs=1;gclst=53970219;gcllp=103095583;gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE;auiddc=72731936.1751510365;uaa=;uab=;uafvl=;uamb=0;uam=;uap=Windows;uapv=;uaw=0;frm=0;user_data_mode=a;_tu=KlA;gtm=45fe5710h1v9192978174z8863745186za200zb863745186;gcs=G1--;gcd=13l3l3R3l5l1;dma=0;dc_fmt=2;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320;epver=2;em=tv.1;dc_random=1751564330214;_dc_test=1;~oref=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas?", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/15402744.fls.doubleclick.net_20250703_143923/response_001.txt", 
+      "timestamp": 1751564330840
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/15402744.fls.doubleclick.net_20250703_143923/request_002.txt", 
+      "url": "https://15402744.fls.doubleclick.net:443/activityi;dc_pre=CIyhzc2doY4DFQhouAQdvcgwew;src=15402744;type=novib00;cat=novib0;ord=7638324940558;npa=0;gclgs=1;gclst=53970219;gcllp=103095583;gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE;auiddc=72731936.1751510365;uaa=;uab=;uafvl=;uamb=0;uam=;uap=Windows;uapv=;uaw=0;frm=0;user_data_mode=a;_tu=KlA;gtm=45fe5710h1v9192978174z8863745186za200zb863745186;gcs=G1--;gcd=13l3l3R3l5l1;dma=0;dc_fmt=2;tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891~104908318~104908320;epver=2;em=tv.1;dc_random=1751564330214;_dc_test=1;~oref=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas?", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/15402744.fls.doubleclick.net_20250703_143923/response_002.txt", 
+      "timestamp": 1751564334047
+    }
+  ], 
+  "host": "15402744.fls.doubleclick.net", 
+  "total_requests": 2
+}
