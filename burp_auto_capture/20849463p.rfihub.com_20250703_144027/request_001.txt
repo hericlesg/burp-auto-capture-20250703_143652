@@ -1,0 +1,19 @@
+GET /ca.html?ver=9&rb=49667&ca=20849463&_o=49667&_t=20849463&pe=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&pf=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas%3F__cf_chl_tk%3DV5IqdNNi9IuC1kKp2KhaPZUpfW6U5aMgNmKgaVdlECw-1751564216-1.0.1.1-kMeXR2M2dw8VRU1X7l1z2rpkvx37.oClhoZhANMajZU&ra=5433323395480916 HTTP/1.1
+Host: 20849463p.rfihub.com
+Cookie: rud=H4sIAAAAAAAA_-MSNjM1MjM1MTE3twBCIwNzMzNjIT5DXfNiD4OixLSU0PCkYgCavL7kJQAAAA; eud=H4sIAAAAAAAA_13POwrCQBAGYBTTKIKQSvAKKzv7TOyWoCBqkVhptyYpxAfqUSxTprRM6RE8gqWlR7BSUJCd8mPm_4dp9iAyw_lwZtaxsbNDvLOLTTSepNsjSWjSBi1BKlAaNEBR-5tS4BXyFfmG_ER-IZd11xfkCs8bru_Ipdexo700xiyzJD9NjZlevO8KUKmk0GHloRdars--poJryKglKaOCCJApCYMgIzaXOXDF1Mqmg18pV7qvPgHGWOH_m5jQUCI_fPdS0XX9BsQj2ZmaAQAA
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive
+
