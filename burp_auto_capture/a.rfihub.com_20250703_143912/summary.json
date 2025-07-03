@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250703_143912", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/a.rfihub.com_20250703_143912/request_001.txt", 
+      "url": "https://a.rfihub.com:443/pstats.html?rb=49667&ca=20849463&ri=2b04c769c614deee1290f727d86cced4&stats=undefined&ra=6219573271551332", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/a.rfihub.com_20250703_143912/response_001.txt", 
+      "timestamp": 1751564348090
+    }
+  ], 
+  "host": "a.rfihub.com", 
+  "total_requests": 1
+}
