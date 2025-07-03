@@ -1,0 +1,28 @@
+POST /cdn-cgi/challenge-platform/h/g/flow/ov1/1662575913:1751560025:r1m5RLzNdTT1AJJ0xNE2ARXwKGoPBlXVSuUXvXGAeUU/959825e09b1fc5e3/P8DyqBZAJsFMrjQ.19.JGsKNq3AzbChhXSgVLXnOJx4-1751564216-1.2.1.1-cuxK0seRjLYDv8c06pTmAyHN2CO0s7dQKOJRQfvwVM2lx7HVcHnthSOWg_t5nDjM HTTP/2
+Host: www.novibet.bet.br
+Cookie: affUrlC=value%3dhttps%3a%2f%2fwww.novibet.bet.br%2fcassino; BBPreferences=lang%3dpt-BR%3btimeZone%3dE.+South+America+Standard+Time%3bcountry%3dBR; affC=value%3d4124; registerOrLogin=true; AGE_CHECK_PASSED=true; _gcl_gs=2.1.k1$i1751510360$u103095583; _ga=GA1.1.2072127438.1751510366; _fs_sample_user=true; _cq_duid=1.1751510366.uQXMvyyDMDAtreIN; _fbp=fb.2.1751510366744.713107813531488245; kwai_uuid=24130310c73bafb3f38a789a7065ec21; _k_cp=1; tutorial_casino_search_home=acceptCookies; tutorial_casino_search_filters=acceptCookies; _gcl_aw=GCL.1751510648.EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE; _gcl_au=1.1.72731936.1751510365.250141416.1751510388.1751511876; acceptCookiesV1=acceptCookies; cf_clearance=fFFwGaIIEbQLky7rxdCHIEy9.qF8HstE94CZKTnHrf8-1751561665-1.2.1.1-pPjNMN3PveayQw.DdpuZb5PXCkzGDiX1GkGAipqRTySick4hwD7HKIU_LrklZAn2iDEslREzGfxuY38txDjCPASzUpKNaqNrI0UD5YdKbGYvkmHwsCmVuA_6yfJcVMkCCGP6l8Xl82.sUT7_haXmX4I7bpAbBJQ0pm90rFquHRqGOBPJtEBILwa83L0w_1oy0tEOvWm6WldiXhAZ7F5dYa9q.VGuQo_Yx5I7fWdFtsa1RIsa3.SxYKGLrSV0BGGe; _ga_DC6RRZLTBB=GS2.1.s1751561510$o2$g1$t1751561670$j60$l0$h0; _ga_XJQJTTNRLE=GS2.1.s1751561510$o2$g1$t1751561670$j60$l0$h0; _vuid=v1.3:16910522538:1751510366496:1751561670210; _sp_srt_id.1b88=7331c130-3e30-44a7-9f28-0d008f0dd4f5.1751510367.2.1751561671.1751511843.08031255-fb14-4012-8716-f8219c786428.ee9f259b-16ca-46c0-81c4-c61cfd03d1ec...0; _uetsid=efeea59057b611f0bb9a4757e8640f69|bk173v|2|fxa|0|2010; _tq_id.TV-5445279027-1.821a=87942722fe4227d1.1751510367.0.1751561671..; _uetvid=efeea88057b611f0ac0a5733032613ff|z75m3k|1751561671682|2|1|bat.bing.com/p/insights/c/z; __cf_bm=zHhRoXqCm8jb40p.GJuazjeKIyXCeiTGKQYHdd4nKAw-1751564216-1.0.1.1-2SYouslXtwmKKRPYnypIjIf1x9QQmPm_KVBb8olFc_PzV39xYUtAX8JEcyUDk7nrYBzmSmyP7un44dr73VXDN0D41X.yDjfcPUlt0MMErKc
+Content-Length: 2306
+Sec-Ch-Ua-Full-Version-List: 
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Bitness: ""
+Cf-Chl-Ra: 0
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Model: ""
+Sec-Ch-Ua-Arch: ""
+Sec-Ch-Ua-Full-Version: ""
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Cf-Chl: P8DyqBZAJsFMrjQ.19.JGsKNq3AzbChhXSgVLXnOJx4-1751564216-1.2.1.1-cuxK0seRjLYDv8c06pTmAyHN2CO0s7dQKOJRQfvwVM2lx7HVcHnthSOWg_t5nDjM
+Sec-Ch-Ua-Platform-Version: ""
+Accept: */*
+Origin: https://www.novibet.bet.br
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.novibet.bet.br/apostas-esportivas
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+M42gyTZmwOyBxsnik3B2$AwT2vWEzBH$eYUrC3EUinX+ecrhILyny7rBTpGOqzVHZKY$G8c1EbSX8+gwjFNXfE6Cqlzzxr8wXm4DwqoqjziE90umYXX+K7sQWjTA9XyEuZQCBjGvv-v6qa1AGLaHIC5bi5yrsxdm6A9ib-WzyzyE93874-W-$OgkdYEkKaIWMYXXxSa9MZsGg6C4deEEgA3tAYo33ArLIrISH-$IKX0M4Sa8HHe0KTOqoekuf9QbldLyUc5xmCju5+NBLQPm1VKCKfupSYu8qZjlL4rzrGwGEP+Gg2hXem5joj0GnzNcMk46r8SYM+Komet6krahYM9lPxzBhl0YUfCKOY9JZchSOY+SqqQf+OCuoO09Z$1bZDD3xZ1dZQkHDFKJ8bo0x64KkmTd-xiFWbCegPJYj7p7TJxempt2As2MSUdLewF3JB5B5+gdzuNPiYO3yLsBD+sn3$oIplroPH3Q$-1Q-LQwkX$rXoIWB3$kK8nss7aKA8Dy6QB4qLXTEdBH2PgqehCka02scdWHYnhIqMzFq5Qq8EvIbXjHph-OMcdwH$hgAQ9EaWZN7SCxn1upbnqrdqWFpJYCJ4Sj1GzpxSKbCYbJ2M1rbaS-ywHhLzF-L8KCHWBiqt13g3TKqAGyV-fWaCQ099C$e4aojNmt20LP$VkSUapoaPUCenTlzim9yFx01ueIDWI7$QZ66$zCBjG$vAKBLm9O1ZfQPFiZTg7Yu7BjuPGweUUrCVDApAW4JdbFB3WJBTfjbB3QwvaAfstdXKoSf7f7o$WT1Nrns+4U7QAHPtP+bGk295GiJKuZ$MIghYTFE$QNc70K2mXJj+dTuM+slxF8jVV6ryQOWZq8TOXAN8zjgCsxn4W0b2W+mwp4a+EgNO9v$Y7lBGhdVqYV2FJl8Bqr5-2gAK8xWdGk4zxf8Pngb5vx+KdIA6-4gGb48sddU8SUNUdL3VyDWHcvyo$j-r+643-mXQHo8rTX13IA7dVDkIcLKnZ8XPvlwN4rFGbO3szfQY-veV0SQjTbFvIgzEgZhAExqLmITpsrWuHsPSq0+$Nv-3vhnTKFs0aj1hkWb31Xgg9K1SjXJiLkNesqLrdMoVpJH1zgAuDdoQ2XYLNOdDO5qVemvHEbYj$FEHcanapfw3rI$NeEuh7q0vQt1fQ5dEUnui30wGY1mSDtOyUQ4Dc4tzX3TXo3AJbd0de5r1+wQGsY4EBKY7gixjXTmxmsHnPPqwWrm6afiNeuv-F9ss1dFi+NIKGBCrMo9S1JfDZdKgH$rGSfyf8fskL0+xTHY3tsxcm8+SEaewYHNNiY0XXkeza8LrN98eysdHBEmYk2aSb6nJ+FoTYnEmw6OV1N4PGKtSJYKMVMivwrPA7yz9mLbkADhib1TYeZ9JVqpCk0UMDtZiNp+2N7ehxJrddwW7uB1wOcen99JI5MUKZv-TOiLbJ3B4xrDXeXa$069bmu9jBOGPltDsjFD+FxphUsIj7$QuIp7pgX9MD7yfUz-B7IsybKveik3J3HKkOIniIJrk3hDtadXWfOWGC63VJgE4mhmnS8h0fT7DmjC+vdk+2K+-uGYyK9199fo1Z2AvVf7ScrFNMoPf2OVbXNAzEvLovC2VU1gIlnCNxLVY9NDPOZYBG+MaUX$HyH4PuV49TV-tFSx6WLQlyS+D7EJ2Tty7VNKlS$2s55GpionUcsmT2dOIPW2yhHWIPfFxfV7pgYfy+dTosW-x30lx-7xUaiC9gsqEjkgduFfTJ$GdvCXI8hO-ovsUoY1VTOTezetXXTCdCvNed-bxMEVxHYQczQ-2oewOfpD2khI3uHxWO+HStG21FO-wkHYkpy87dK$q+qsV2rTCk2AZt8o2m1qNXImmbVoN8OCxPmDkxpQ+YlC$C$mMCrze6wdfh43QJHaYI0kjj1N8KW59Q9KpxK0UBViKJPv6G7yk-E7GVySr0bzIX8ufcB3etorIIL-sjHitJX5Foex0VZINqJIwkaA5KvaMLZ7q2guCknCvhMY0d1ovueQKGnYilrn0ljhgeNlMISVX5ty8MG-lojjPqjHLvn0INrOMAdVw7gJuiTyQneGvfG27iK2aTrvgfEEIGl6TYQpZN6IOjU7hsP6jSDLsVz0VA1o2XrjFqJQN99AocHB0fp$F2CB7TD9Vuv4XYesf5Nte-LgNtrTo$An9TPiA69rbYx$8Q-2Ne6hIu7MT6Js6nCoVD+YByryM$ss9HJ2hKPuXC5eOmFBhsenwIy8DejEhCpVlKNcgGTjaWJUvbsQjedQnyLnwimoNSJhT
